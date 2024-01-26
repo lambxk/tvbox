@@ -103,15 +103,6 @@
       "key" : "csp_BiliBili",
       "searchable" : 1
     }, {
-      "key" : "360",
-      "name" : "俊佬@360",
-      "type" : 3,
-      "api" : "csp_SP360",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "jar" : "http://home.jundie.top:81/jar/top98_1.jar"
-    },{
       "key" : "csp_Alist",
       "name" : "俊佬@Alist(SP)",
       "type" : 3,
@@ -479,14 +470,6 @@
       "changeable" : 0,
       "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
     }, {
-      "key" : "云搜",
-      "name" : "菜妮丝@云搜┃云盘",
-      "type" : 3,
-      "api" : "csp_UpYun",
-      "searchable" : 1,
-      "changeable" : 0,
-      "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    }, {
       "key" : "紙條搜",
       "name" : "菜妮丝@紙條┃云盘",
       "type" : 3,
@@ -587,14 +570,6 @@
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/cokemv.js"
     }, {
-      "key" : "360影视",
-      "name" : "菜妮丝@360┃解析",
-      "type" : 3,
-      "api" : "csp_SP360",
-      "searchable" : 1,
-      "changeable" : 1,
-      "jar" : "https://tvbox.cainisi.cf/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
-    }, {
       "key" : "兔小贝",
       "name" : "菜妮丝@\uD83D\uDCDA儿童┃启蒙",
       "type" : 3,
@@ -606,14 +581,6 @@
         "ratio" : 1.597
       },
       "ext" : "https://drpy.cainisi.cf/js/兔小贝.js"
-    }, {
-      "key" : "快看影视",
-      "name" : "菜妮丝@快看┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/快看.js"
     }, {
       "key" : "磁力熊",
       "name" : "菜妮丝@熊┃磁力",
@@ -630,22 +597,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/voflix.js"
-    }, {
-      "key" : "零零七影视",
-      "name" : "菜妮丝@零零七┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/007影视.js"
-    }, {
-      "key" : "139影视",
-      "name" : "菜妮丝@139┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/139影视.js"
     }, {
       "key" : "69美剧",
       "name" : "菜妮丝@69┃影视",
@@ -695,14 +646,6 @@
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/免费看.js"
     }, {
-      "key" : "六度TV",
-      "name" : "菜妮丝@六度┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/六度TV.js"
-    }, {
       "key" : "兰花影院",
       "name" : "菜妮丝@兰花┃影视",
       "type" : 3,
@@ -718,14 +661,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/凌云影视.js"
-    }, {
-      "key" : "北川影视",
-      "name" : "菜妮丝@北川┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/北川影视.js"
     }, {
       "key" : "去看吧",
       "name" : "菜妮丝@去看吧┃影视",
@@ -766,15 +701,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://tvbox.cainisi.cf/json/XBPQ/NikeTV.json",
-      "jar" : "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    }, {
-      "key" : "APP影院",
-      "name" : "菜妮丝@APP┃影视",
-      "type" : 3,
-      "api" : "csp_XBPQ",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://tvbox.cainisi.cf/json/XBPQ/APP影院.json",
       "jar" : "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     }, {
       "key" : "A8音乐",
@@ -1106,16 +1032,6 @@
       "quickSearch" : 1,
       "changeable" : 1,
       "ext" : "https://www.hdmyy.com/",
-      "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9"
-    }, {
-      "key" : "九六",
-      "name" : "饭太硬@\uD83C\uDF80九六┃直连",
-      "type" : 3,
-      "api" : "csp_Cs1369",
-      "playerType" : 2,
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 1,
       "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9"
     }, {
       "key" : "南瓜",
@@ -1457,16 +1373,6 @@
       "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
       "filterable" : 0
     }, {
-      "key" : "PanSou",
-      "name" : "饭太硬@\uD83E\uDD8A盘搜┃搜索",
-      "type" : 3,
-      "api" : "csp_PanSou",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 0,
-      "ext" : "http://tv.gzyang.cn/ali/token/8d748bdb93aa47fea84f24d4bdacf080+4k|auto|fhd",
-      "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9"
-    }, {
       "key" : "UpYun",
       "name" : "零零@云搜(阿里搜索)",
       "type" : 3,
@@ -1476,28 +1382,6 @@
       "changeable" : 0,
       "ext" : "http://tv.gzyang.cn/ali/token/8d748bdb93aa47fea84f24d4bdacf080+auto|4k|fhd",
       "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
-      "filterable" : 0
-    }, {
-      "key" : "PanSearch",
-      "name" : "零零@盘搜索(阿里搜索)",
-      "type" : 3,
-      "api" : "csp_PanSearch",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 0,
-      "ext" : "http://tv.gzyang.cn/ali/token/8d748bdb93aa47fea84f24d4bdacf080+auto|4k|fhd",
-      "jar" : "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706264384526/fan.txt;md5;5543dae038ce2248e7759e9cbca295b9",
-      "filterable" : 0
-    }, {
-      "key" : "七夜",
-      "name" : "菜妮丝@七夜┃云盘",
-      "type" : 3,
-      "api" : "csp_Dovx",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 0,
-      "ext" : "http://tv.gzyang.cn/ali/token/8d748bdb93aa47fea84f24d4bdacf080+auto|4k|fhd",
-      "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab",
       "filterable" : 0
     }, {
       "key" : "Bili",
@@ -1719,28 +1603,10 @@
       "changeable" : 1,
       "ext" : "https://tvbox.cainisi.cf/json/nmys.json"
     }, {
-      "key" : "csp_Cs1369",
-      "name" : "肥猫@\uD83E\uDD43┃九六┃影视",
-      "type" : 3,
-      "api" : "csp_Cs1369",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
-    }, {
       "key" : "csp_Auete",
       "name" : "零零@Auete",
       "type" : 3,
       "api" : "csp_Auete",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
-    }, {
-      "key" : "csp_Kuaikan",
-      "name" : "肥猫@\uD83D\uDC40┃快看┃影视",
-      "type" : 3,
-      "api" : "csp_Kuaikan",
       "searchable" : 1,
       "quickSearch" : 1,
       "filterable" : 1,
@@ -1785,20 +1651,6 @@
       "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext" : "https://d.kstore.space/download/6296/js/骚火.js"
     }, {
-      "key" : "圣城影视",
-      "name" : "肥猫@\uD83C\uDFF0┃圣城┃影视",
-      "type" : 3,
-      "playerType" : "2",
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/SC1080.js"
-    }, {
-      "key" : "云播影视",
-      "name" : "肥猫@☁️┃云播┃影视",
-      "type" : 3,
-      "playerType" : "2",
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/TVB云播.js"
-    }, {
       "key" : "二三",
       "name" : "肥猫@2️⃣┃二三┃影视",
       "type" : 3,
@@ -1818,13 +1670,6 @@
       "ext" : "https://www.80yy3.com/",
       "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     }, {
-      "key" : "007影视",
-      "name" : "肥猫@\uD83C\uDF6D┃零七┃影视",
-      "type" : 3,
-      "playerType" : "1",
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/007.js"
-    }, {
       "key" : "低端",
       "name" : "肥猫@\uD83D\uDEE3┃低端┃影视",
       "type" : 3,
@@ -1838,12 +1683,6 @@
       "api" : "csp_Panda",
       "ext" : "http://我不是.肥猫.live/json/虎虎.json",
       "jar" : "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    }, {
-      "key" : "drpy_js_360影视",
-      "name" : "肥猫@\uD83D\uDCFA┃360┃官源",
-      "type" : 3,
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/360.js"
     }, {
       "key" : "短剧one",
       "name" : "肥猫@\uD83E\uDD70┃短剧┃视频",
@@ -1948,39 +1787,6 @@
         "type" : "list"
       },
       "ext" : "https://d.kstore.space/download/6296/js/310直播.js"
-    }, {
-      "key" : "csp_search_Panda_pansearch",
-      "name" : "肥猫@\uD83D\uDEA2┃盘搜┃网盘",
-      "type" : 3,
-      "api" : "csp_Panda",
-      "ext" : {
-        "数组" : "flex flex-col items-start&&</div></div><div",
-        "标题" : "名称：&&描述：",
-        "副标题" : "发布时间：&&</p>",
-        "图片" : "<img src=\"&&\"",
-        "链接" : "href=\"&&\"",
-        "搜索url" : "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
-        "timeout" : 30,
-        "changeable" : 0,
-        "阿里token" : "file://fatcat/token.txt"
-      },
-      "jar" : "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    }, {
-      "key" : "csp_search_Panda_盘搜",
-      "name" : "肥猫@\uD83D\uDE83┃盘搜┃网盘2",
-      "type" : 3,
-      "api" : "csp_Panda",
-      "ext" : {
-        "标题" : "<span*>&&</div>",
-        "副标题" : "时间:&&格式",
-        "图片" : "thumb=\"&&\"",
-        "链接" : "/cv/+href=\"/s/&&\"",
-        "搜索url" : "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
-        "timeout" : 30,
-        "changeable" : 0,
-        "阿里token" : "file://fatcat/token.txt"
-      },
-      "jar" : "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     }, {
       "key" : "csp_search_Panda_找资源",
       "name" : "肥猫@☠┃资源┃网盘",
