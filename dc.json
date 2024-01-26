@@ -381,13 +381,6 @@
       "searchable" : 1,
       "changeable" : 1
     }, {
-      "key" : "索尼",
-      "name" : "菜妮丝@索尼┃影视",
-      "type" : 1,
-      "api" : "https://suoniapi.com/api.php/provide/vod",
-      "searchable" : 1,
-      "changeable" : 1
-    }, {
       "key" : "快帆",
       "name" : "菜妮丝@快帆",
       "type" : 1,
@@ -572,14 +565,6 @@
       "changeable" : 0,
       "ext" : "https://drpy.cainisi.cf/js/磁力熊[磁].js"
     }, {
-      "key" : "VOFLIX",
-      "name" : "菜妮丝@VOFLIX┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/voflix.js"
-    }, {
       "key" : "69美剧",
       "name" : "菜妮丝@69┃影视",
       "type" : 3,
@@ -587,14 +572,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/69美剧[V2].js"
-    }, {
-      "key" : "B站影视",
-      "name" : "菜妮丝@B站┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/B站影视.js"
     }, {
       "key" : "101影院",
       "name" : "菜妮丝@101┃影视",
@@ -643,14 +620,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/凌云影视.js"
-    }, {
-      "key" : "去看吧",
-      "name" : "菜妮丝@去看吧┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/去看吧.js"
     }, {
       "key" : "咕噜[V2]",
       "name" : "菜妮丝@咕噜┃影视",
