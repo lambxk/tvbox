@@ -303,16 +303,6 @@
       "ext" : "https://cokemv.me/vodshow/{cateId}--------{catePg}---.html",
       "jar" : "http://home.jundie.top:81/jar/top98_1.jar"
     }, {
-      "key" : "csp_XBPQ_98影院",
-      "name" : "俊佬@98影院(XBPQ)",
-      "type" : 3,
-      "api" : "csp_XBPQ",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 0,
-      "ext" : "{\"免嗅\":\"0\",\"副标题\":\"right\\\">&&</span>\",\"播放标题\":\">&&</a>\",\"播放数组\":\"<ul class=\\\"stui-content__playlist&&</ul>\",\"线路数组\": \"<img src=&&/h3>\",\"线路标题\": \">&&<\",\"分类url\":\"http://www.98ju.com/{cateId}/index{catePg}.html[http://www.98ju.com/{cateId}/index.html]\",\"分类\":\"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman\",\"类型\":\"dianyingpian--动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#喜剧片$xijupian#纪录片$jilupian#剧情片$juqingpian||dianshiju--国产剧$guochanju#港台剧$gangtaiju#日韩剧$rihanju#欧美剧$oumeiju]\",\"地区\":\"0\",\"剧情\":\"0\",\"年份\":\"0\",\"排序\":\"0\",\"筛选\":\"1\"}",
-      "jar" : "http://home.jundie.top:81/jar/top98_1.jar"
-    }, {
       "key" : "Gitcafe",
       "name" : "俊佬@小纸条(新)",
       "type" : 3,
@@ -439,13 +429,6 @@
       "name" : "菜妮丝@量子┃影视",
       "type" : 1,
       "api" : "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable" : 1,
-      "changeable" : 1
-    }, {
-      "key" : "非凡",
-      "name" : "菜妮丝@非凡┃影视",
-      "type" : 1,
-      "api" : "http://cj.ffzyapi.com/api.php/provide/vod",
       "searchable" : 1,
       "changeable" : 1
     }, {
@@ -698,22 +681,6 @@
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/139影视.js"
     }, {
-      "key" : "348电影网",
-      "name" : "菜妮丝@348┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/348电影网.js"
-    }, {
-      "key" : "4K电影网",
-      "name" : "菜妮丝@4K┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/4K电影网.js"
-    }, {
       "key" : "69美剧",
       "name" : "菜妮丝@69┃影视",
       "type" : 3,
@@ -722,14 +689,6 @@
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/69美剧[V2].js"
     }, {
-      "key" : "9u电影",
-      "name" : "菜妮丝@9u┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/9U电影.js"
-    }, {
       "key" : "B站影视",
       "name" : "菜妮丝@B站┃影视",
       "type" : 3,
@@ -737,22 +696,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/B站影视.js"
-    }, {
-      "key" : "纽约影院",
-      "name" : "菜妮丝@纽约┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/NY影院.js"
-    }, {
-      "key" : "TVB云播",
-      "name" : "菜妮丝@TVB┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/TVB云播.js"
     }, {
       "key" : "101影院",
       "name" : "菜妮丝@101┃影视",
@@ -858,15 +801,6 @@
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/吼吼[飞].js"
     }, {
-      "key" : "宿命影视",
-      "name" : "菜妮丝@宿命┃影视",
-      "type" : 3,
-      "api" : "csp_XBPQ",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://tvbox.cainisi.cf/json/XBPQ/宿命影视.json",
-      "jar" : "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    }, {
       "key" : "NikeTV",
       "name" : "菜妮丝@NikeTV┃影视",
       "type" : 3,
@@ -883,15 +817,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://tvbox.cainisi.cf/json/XBPQ/APP影院.json",
-      "jar" : "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
-    }, {
-      "key" : "52看剧",
-      "name" : "菜妮丝@52┃影视",
-      "type" : 3,
-      "api" : "csp_XBPQ",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://tvbox.cainisi.cf/json/XBPQ/52看剧.json",
       "jar" : "https://tvbox.cainisi.cf/jar/XBPQ.jar;md5;c156ba7ce636a59c744e9a72bd5a8423"
     }, {
       "key" : "A8音乐",
@@ -1135,12 +1060,6 @@
       "type" : 3,
       "api" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
       "ext" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/北极狐[V2].js"
-    }, {
-      "key" : "ikanbot3",
-      "name" : "零零@ikanbot3[js]",
-      "type" : 3,
-      "api" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
     }, {
       "key" : "drpy_js_玄天",
       "name" : "零零@玄天[js]",
@@ -1898,16 +1817,6 @@
       "filterable" : 1,
       "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     }, {
-      "key" : "哔嘀",
-      "name" : "肥猫@️️\uD83D\uDCA6┃哔嘀┃影视",
-      "type" : 3,
-      "api" : "csp_Bdys",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "playerType" : "1",
-      "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
-    }, {
       "key" : "皮皮虾",
       "name" : "肥猫@\uD83E\uDD90┃皮皮┃影视",
       "type" : 3,
@@ -1923,13 +1832,6 @@
       "playerType" : "2",
       "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext" : "https://d.kstore.space/download/6296/js/骚火.js"
-    }, {
-      "key" : "爱看影视",
-      "name" : "肥猫@❤┃爱看┃影视",
-      "type" : 3,
-      "playerType" : "2",
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/爱看.js"
     }, {
       "key" : "圣城影视",
       "name" : "肥猫@\uD83C\uDFF0┃圣城┃影视",
@@ -2181,13 +2083,6 @@
       "ext" : "file://fatcat/token.txt",
       "jar" : "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
     }, {
-      "key" : "drpy_哔哩",
-      "name" : "肥猫@\uD83C\uDD71┃哔哩┃合集",
-      "type" : 3,
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "playerType" : 1,
-      "ext" : "https://d.kstore.space/download/6296/js/B站.js"
-    }, {
       "key" : "儿童",
       "name" : "菜妮丝@\uD83D\uDCDA少儿┃教育",
       "type" : 3,
@@ -2345,10 +2240,6 @@
       "name" : "量子",
       "hosts" : [ "vip.lz", "hd.lz", "v.cdnlz" ],
       "regex" : [ "18.5333" ]
-    }, {
-      "name" : "非凡",
-      "hosts" : [ "vip.ffzy", "hd.ffzy" ],
-      "regex" : [ "25.0666" ]
     }, {
       "name" : "暴风",
       "hosts" : [ "bfzy", "s5.bfzycdn" ],
