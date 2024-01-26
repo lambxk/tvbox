@@ -414,13 +414,6 @@
       "searchable" : 1,
       "changeable" : 1
     }, {
-      "key" : "量子",
-      "name" : "菜妮丝@量子┃影视",
-      "type" : 1,
-      "api" : "https://cj.lziapi.com/api.php/provide/vod",
-      "searchable" : 1,
-      "changeable" : 1
-    }, {
       "key" : "樱花",
       "name" : "菜妮丝@樱花┃动漫",
       "type" : 3,
@@ -494,26 +487,10 @@
       "changeable" : 0,
       "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
     }, {
-      "key" : "盘搜",
-      "name" : "菜妮丝@盘搜┃云盘",
-      "type" : 3,
-      "api" : "csp_PanSou",
-      "searchable" : 1,
-      "changeable" : 0,
-      "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    }, {
       "key" : "紙條搜",
       "name" : "菜妮丝@紙條┃云盘",
       "type" : 3,
       "api" : "csp_XiaoZhiTiao",
-      "searchable" : 1,
-      "changeable" : 0,
-      "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
-    }, {
-      "key" : "盘搜索",
-      "name" : "菜妮丝@盘搜索┃云盘",
-      "type" : 3,
-      "api" : "csp_PanSearch",
       "searchable" : 1,
       "changeable" : 0,
       "jar" : "https://tvbox.cainisi.cf/jar/fm0101.jar;md5;ca7cf8ac2302fa00985a57e4e58124ab"
@@ -701,14 +678,6 @@
       "searchable" : 1,
       "changeable" : 1,
       "ext" : "https://drpy.cainisi.cf/js/万博剧院.js"
-    }, {
-      "key" : "乐鱼影视",
-      "name" : "菜妮丝@乐鱼┃影视",
-      "type" : 3,
-      "api" : "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable" : 1,
-      "changeable" : 1,
-      "ext" : "https://drpy.cainisi.cf/js/乐鱼影视.js"
     }, {
       "key" : "兄弟影视",
       "name" : "菜妮丝@兄弟┃影视",
@@ -1055,12 +1024,6 @@
       "type" : 3,
       "api" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
       "ext" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/玄天.js"
-    }, {
-      "key" : "drpy_js_爱看",
-      "name" : "零零@爱看[js]",
-      "type" : 3,
-      "api" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext" : "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/爱看.js"
     }, {
       "key" : "新视觉js",
       "name" : "零零@新视觉[js]",
@@ -1868,13 +1831,6 @@
       "playerType" : "2",
       "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext" : "https://d.kstore.space/download/6296/js/ddys.js"
-    }, {
-      "key" : "奇优",
-      "name" : "肥猫@ \uD83C\uDF69┃奇优┃影视",
-      "type" : 3,
-      "playerType" : "2",
-      "api" : "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext" : "https://d.kstore.space/download/6296/js/奇优.js"
     }, {
       "key" : "虎虎",
       "name" : "肥猫@\uD83D\uDC2F┃虎虎┃影视",
