@@ -324,17 +324,6 @@
       "filterable" : 1,
       "jar" : "http://home.jundie.top:81/jar/top98_1.jar"
     }, {
-      "key" : "upyunsou",
-      "name" : "俊佬@Up云搜",
-      "type" : 3,
-      "api" : "csp_Upyunso",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "playerType" : 1,
-      "filterable" : 0,
-      "ext" : "token;asc",
-      "jar" : "http://home.jundie.top:81/jar/top98_1.jar"
-    }, {
       "key" : "yisou",
       "name" : "俊佬@宜搜",
       "type" : 3,
@@ -2055,15 +2044,6 @@
         "changeable" : 0,
         "阿里token" : "file://fatcat/token.txt"
       },
-      "jar" : "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    }, {
-      "key" : "csp_search_Panda_UP云搜",
-      "name" : "肥猫@\uD83C\uDF52┃Up搜┃网盘",
-      "type" : 3,
-      "api" : "csp_UpYun",
-      "timeout" : 30,
-      "changeable" : 0,
-      "ext" : "file://fatcat/token.txt",
       "jar" : "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     }, {
       "key" : "csp_search_Panda_易搜",
