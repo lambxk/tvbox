@@ -152,16 +152,6 @@
       "jar": "http://itvbox.cc/sft/Hk/Hk.jar"
     },
     {
-      "key": "九六",
-      "name": "🎀九六直连",
-      "type": 3,
-      "api": "csp_Cs1369",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "csp_Lib",
       "name": "🌟Libvio",
       "type": 3,
@@ -170,73 +160,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.libvio.pro/"
-    },
-    {
-      "key": "虎牙",
-      "name": "🐯虎牙采集",
-      "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-    },
-    {
-      "key": "火狐",
-      "name": "🦊茶杯狐",
-      "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "内地剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
     },
     {
       "key": "yqkan_open",
@@ -477,36 +400,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/印度歌舞.json"
-    },
-    {
-      "key": "小姐姐",
-      "name": "💃哔哩小姐姐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩xjj.json"
-    },
-    {
-      "key": "车模",
-      "name": "💃哔哩车模",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩车模.json"
-    },
-    {
-      "key": "舞蹈",
-      "name": "🎗️哔哩舞蹈",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://itvbox.cc/tvbox/云星日记/sh/Bilibili/哔哩舞蹈.json"
     },
     {
       "key": "演唱会自定义",
